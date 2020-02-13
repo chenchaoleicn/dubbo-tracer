@@ -9,4 +9,4 @@
 - 【dubbo官网-SPI机制】 http://dubbo.apache.org/zh-cn/docs/source_code_guide/dubbo-spi.html
 - 【dubbo官网-调用拦截扩展】 http://dubbo.apache.org/zh-cn/docs/dev/impls/filter.html
 - 【dubbo官网-扩展点重构】 http://dubbo.apache.org/zh-cn/docs/dev/principals/extension.html
-- 【Log4j2中文文档2.x-ThreadContext】 http://dubbo.apache.org/zh-cn/docs/dev/principals/extension.html
+- 【Log4j2中文文档2.x-ThreadContext】 https://www.docs4dev.com/docs/zh/log4j2/2.x/all/manual-thread-context.html
